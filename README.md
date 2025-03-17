@@ -1,3 +1,3 @@
 # Cubic
-Android game built with Unity
-Download apk file from release
+Android game built with Unity. <br>
+Please download apk file from release.
